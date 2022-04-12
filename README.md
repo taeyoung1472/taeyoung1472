@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&&color=FBF8BE&height=300&section=header&text=TaeyoungLee&fontSize=100&fontColor=234E70)
-# TaeyoungLee
+# :computer:TaeyoungLee
 ## Who Am I?
 :mortar_board:저는 경기게임 마이스터고등학교에서 교육을 받은 게발자 입니다
 ## My Skill
