@@ -3,7 +3,7 @@
 ## Who Am I?Cancel changes
 :mortar_board:저는 경기게임 마이스터고등학교에서 교육을 받은 개발자 입니다
 ## My Skill
-:ledger:저는 이러이러한것들을 할수 있고
+:ledger: C# / C++ / C / HTML / Unity / SourceTree
 ## My Devloped Game
 :video_game:저는 이러이러한 게임들도 만들었습니다
 ## About Me
