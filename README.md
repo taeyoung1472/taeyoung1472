@@ -5,7 +5,7 @@
 저는 대한민국 유일 게임분야 마이스터 고등학교인 경기게임 마이스터고등학교에서 3년차 교육을 받은 게임 개발자 입니다.
 ## My Skill
 :ledger:<br>
-저는 이와같은 언어를 할수있습니다. C# / C++ / C / HTML<br>
+저는 이와같은 언어를 할수있습니다. C# / C++ / C<br>
 저는 이와같은 게임 엔진을 사용할수 있습니다. Unity<br>
 저는 이와같은 협업 프로그램을 사용할수 있습니다. SourceTree / Github Desktop<br>
 저는 이와같은 프로그램을 사용 가능합니다. Excel / PPT / Word / VS Studio / Atom<br>
