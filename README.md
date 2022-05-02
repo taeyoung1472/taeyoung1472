@@ -12,7 +12,8 @@
 저는 이와같은 프로그램을 이용하여 작업해봤습니다. Miro / Xmind
 ## My Devloped Game
 :video_game:<br>
-저는 이러이러한 게임들도 만들었습니다<br>
+저는 이러이러한 활동을 해봤습니다<br>
+C# 으로 TCP/IP 를 이용한 서버 프로그래밍<br>
 GRGR GReed GRow : https://indie.onstove.com/ko/games/714<br>
 The Tank : https://play.google.com/store/apps/details?id=com.DefaultCompany.TheTank<br>
 지구를 밝혀라! : https://play.google.com/store/apps/details?id=com.DefaultCompany.Suhang202121<br>
