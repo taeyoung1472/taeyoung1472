@@ -20,7 +20,7 @@ The Tank : https://play.google.com/store/apps/details?id=com.DefaultCompany.TheT
 3D 2048 : https://play.google.com/store/apps/details?id=com.Taeyoung.MultiplyCube<br>
 ## My Massenger
 :telephone:<br>
-아레있는것들은 저의 연락처 입니다<br>
+아래있는것들은 저의 연락처 입니다<br>
 Discord : Taeyoung#6413<br>
 PhoneNumber : 010 - 5714 - 0838<br>
 Google Email : l32590838@gmail.com
