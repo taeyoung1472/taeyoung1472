@@ -9,7 +9,7 @@
 저는 이와같은 게임 엔진을 사용할수 있습니다. Unity<br>
 저는 이와같은 협업 프로그램을 사용할수 있습니다. SourceTree / Github Desktop<br>
 저는 이와같은 프로그램을 사용 가능합니다. Excel / PPT / Word / VS Studio / Atom<br>
-저는 이와같은 프로그램을 이용하여 작업해봤습니다. Miro / Xmind
+저는 이와같은 프로그램을 이용하여 작업해봤습니다. Miro / Xmind / Notion
 ## My Devloped Game
 :video_game:<br>
 저는 이러이러한 활동을 해봤습니다<br>
